@@ -80,7 +80,7 @@
 		<dependency>
 			<groupId>org.springframework.hateoas</groupId>
 			<artifactId>spring-hateoas</artifactId>
-			<version>1.0.2.RELEASE</version>
+			<version>1.5.5</version>
 		</dependency>
 
 		<!--Nisam mogao zbog ovoga run as java applications-->
